@@ -1,0 +1,1 @@
+This library is for testing XML documentation related build settings in build systems. It is a minimalistic library.
